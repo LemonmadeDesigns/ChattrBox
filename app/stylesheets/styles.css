@@ -38,7 +38,7 @@ ul, ul.panel-body {
 }
 
 .message-row p {
-  /* flex: auto; */
+  flex: auto;
 }
 
 .me {
@@ -68,5 +68,5 @@ ul, ul.panel-body {
 
 .timestamp {
   font-style: italic;
-  /*        display: block; */
+  /* display: block; */
 }
