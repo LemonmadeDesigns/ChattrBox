@@ -1,3 +1,8 @@
+<style>
+  h1 { color: dodgerblue; }
+  img { border: solid 2px red}
+</style>
+
 # CHATTRBOX
 
 To run this App, start `Watchify` with:
