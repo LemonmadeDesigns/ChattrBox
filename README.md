@@ -9,3 +9,5 @@ and start `Nodemon` with:
 - `npm run dev`
 
 Open or refresh your browser and type in a message
+
+![Application](app/img/pixx.png)
